@@ -1,0 +1,22 @@
+.box{ 
+   /* Control the overall width
+      and element height or only
+      the size of its content area */
+  width: 350px;
+  height: 220px;
+
+  /* Sets the border */
+  border: 2px dashed red;
+
+  /* Adds an inner padding */
+  padding top: 15px ;
+  padding bottom: 20px ;
+  padding left : 10px ;
+  padding right : 10px ;
+
+  /* Sets outer margins */
+  margin bottom : 30px ;
+
+  background-color:green;
+}
+  
